@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['Body', 'Head', 'Player', 'Yourself', 'head', 'people']
+
+roboflow:
+  workspace: best-uheyr
+  project: quan-bspqb
+  version: 3
+  license: MIT
+  url: https://universe.roboflow.com/best-uheyr/quan-bspqb/dataset/3
