@@ -99,7 +99,7 @@ numpy==1.23.0
 nvidia-ml-py==12.555.43
 openai==1.37.1
 opencv-python==4.10.0.84
-opencv-python-headless==4.8.0.76
+opencv-python-headless==4.8.1.78
 opt-einsum==3.3.0
 optree==0.12.1
 packages==0.1.1
