@@ -70,7 +70,7 @@ jupyter_client==8.6.2
 jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
 kagglehub==0.2.9
-keras==3.8.0
+keras==3.9.0
 keras-core==0.1.7
 keras-cv==0.9.0
 keyboard==0.13.5
